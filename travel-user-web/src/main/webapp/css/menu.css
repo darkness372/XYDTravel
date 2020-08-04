@@ -1,0 +1,66 @@
+<style>
+ul.topnav {
+	padding: 0;
+	margin: 0;
+	font-size: 1em;
+	line-height: 0.5em;
+	list-style: none;
+}
+
+ul.topnav li {}
+
+ul.topnav li a {
+	line-height: 10px;
+	font-size: 18px;
+	padding: 10px 5px;
+	color: #000;
+	display: block;
+	text-decoration: none;
+	font-weight: bolder;
+}
+
+/*一级菜单背景色*/
+ul.topnav li a:hover {
+	background-color:#c4ffff;
+	color:#ff0080;
+}
+
+ul.topnav ul {
+	margin: 0;
+	padding: 0;
+	display: none;
+}
+
+ul.topnav ul li {
+	margin: 0;
+	padding: 0;
+	clear: #ff0000;
+}
+
+ul.topnav ul li a {
+	padding-left: 20px;
+	font-size: 16px;
+	font-weight: normal;
+	outline:0;
+}
+/*二级菜单*/
+ul.topnav ul li a:hover {
+	background-color:#8de6f5;
+	color:#ff0080;/* 二级菜单字体颜色 */
+}
+
+/*三级菜单*/
+ul.topnav ul ul li a {
+	color:#000000;/* 默认字体颜色 */
+	padding-left: 40px;
+}
+
+/*三级菜单选中颜色*/
+ul.topnav ul ul li a:hover {
+	color:#ff0080;
+}
+
+ul.topnav span{
+	float:right;
+}
+</style>

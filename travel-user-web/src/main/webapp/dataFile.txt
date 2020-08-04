@@ -1,0 +1,165 @@
+{
+    "data": [
+        {
+            "photo": "xyd.png",
+            "eid": "admin",
+            "ename": "信盈达",
+            "lid": "manager",
+            "tltie": "管理员",
+            "did": 1,
+            "dname": "行政部",
+            "hiredate": "2020-12-12",
+            "sal": "￥9,999",
+            "phone": "138-1234-5678",
+            "action":{
+            	"aaa":"删除",
+            	"bbb":"admin"
+            }
+        },
+        {
+            "photo": "xyd.png",
+            "eid": "admin",
+            "ename": "信盈达",
+            "lid": "manager",
+            "tltie": "管理员",
+            "did": 1,
+            "dname": "行政部",
+            "hiredate": "2020-12-12",
+            "sal": "￥9,999",
+            "phone": "138-1234-5678",
+            "action":{
+            	"aaa":"删除",
+            	"bbb":"admin"
+            }
+        },
+        {
+            "photo": "xyd.png",
+            "eid": "admin",
+            "ename": "信盈达",
+            "lid": "manager",
+            "tltie": "管理员",
+            "did": 1,
+            "dname": "行政部",
+            "hiredate": "2020-12-12",
+            "sal": "￥9,999",
+            "phone": "138-1234-5678",
+            "action":{
+            	"aaa":"删除",
+            	"bbb":"admin"
+            }
+        },
+        {
+            "photo": "xyd.png",
+            "eid": "admin",
+            "ename": "信盈达",
+            "lid": "manager",
+            "tltie": "管理员",
+            "did": 1,
+            "dname": "行政部",
+            "hiredate": "2020-12-12",
+            "sal": "￥9,999",
+            "phone": "138-1234-5678",
+            "action":{
+            	"aaa":"删除",
+            	"bbb":"admin"
+            }
+        },
+        {
+            "photo": "xyd.png",
+            "eid": "admin",
+            "ename": "信盈达",
+            "lid": "manager",
+            "tltie": "管理员",
+            "did": 1,
+            "dname": "行政部",
+            "hiredate": "2020-12-12",
+            "sal": "￥9,999",
+            "phone": "138-1234-5678",
+            "action":{
+            	"aaa":"删除",
+            	"bbb":"admin"
+            }
+        },
+        {
+            "photo": "xyd.png",
+            "eid": "admin",
+            "ename": "信盈达",
+            "lid": "manager",
+            "tltie": "管理员",
+            "did": 1,
+            "dname": "行政部",
+            "hiredate": "2020-12-12",
+            "sal": "￥9,999",
+            "phone": "138-1234-5678",
+            "action":{
+            	"aaa":"删除",
+            	"bbb":"admin"
+            }
+        },
+        {
+            "photo": "xyd.png",
+            "eid": "admin",
+            "ename": "信盈达",
+            "lid": "manager",
+            "tltie": "管理员",
+            "did": 1,
+            "dname": "行政部",
+            "hiredate": "2020-12-12",
+            "sal": "￥9,999",
+            "phone": "138-1234-5678",
+            "action":{
+            	"aaa":"删除",
+            	"bbb":"admin"
+            }
+        },
+        {
+            "photo": "xyd.png",
+            "eid": "admin",
+            "ename": "信盈达",
+            "lid": "manager",
+            "tltie": "管理员",
+            "did": 1,
+            "dname": "行政部",
+            "hiredate": "2020-12-12",
+            "sal": "￥9,999",
+            "phone": "138-1234-5678",
+            "action":{
+            	"aaa":"删除",
+            	"bbb":"admin"
+            }
+        },
+        {
+            "photo": "xyd.png",
+            "eid": "admin",
+            "ename": "信盈达",
+            "lid": "manager",
+            "tltie": "管理员",
+            "did": 1,
+            "dname": "行政部",
+            "hiredate": "2020-12-12",
+            "sal": "￥9,999",
+            "phone": "138-1234-5678",
+            "action":{
+            	"aaa":"删除",
+            	"bbb":"admin"
+            }
+        },
+        {
+            "photo": "xyd.png",
+            "eid": "admin",
+            "ename": "信盈达",
+            "lid": "manager",
+            "tltie": "管理员",
+            "did": 1,
+            "dname": "行政部",
+            "hiredate": "2020-12-12",
+            "sal": "￥9,999",
+            "phone": "138-1234-5678",
+            "action":{
+            	"aaa":"删除",
+            	"bbb":"admin"
+            }
+        }
+    ],
+    "total": 10
+}
